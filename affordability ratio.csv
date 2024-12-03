@@ -1,0 +1,337 @@
+Figure 4: There is a large overlap in the affordability of housing in local authority districts between most English regions and Wales ,,,,
+"Range of median housing affordability ratio in local authorities for English regions and Wales, England and Wales, 2021 ",,,,
+Region code,Region name ,Code,Name,2021
+E12000001,North East,E06000001,Hartlepool,4.58
+E12000001,North East,E06000002,Middlesbrough,5.12
+E12000001,North East,E06000003,Redcar and Cleveland,5.61
+E12000001,North East,E06000004,Stockton-on-Tees,5.35
+E12000001,North East,E06000005,Darlington,5.29
+E12000001,North East,E06000047,County Durham,4.74
+E12000001,North East,E06000057,Northumberland,6.77
+E12000001,North East,E08000021,Newcastle upon Tyne,5.9
+E12000001,North East,E08000022,North Tyneside,6.53
+E12000001,North East,E08000023,South Tyneside,5.85
+E12000001,North East,E08000024,Sunderland,4.96
+E12000001,North East,E08000037,Gateshead,5.69
+E12000002,North West,E06000006,Halton,5.47
+E12000002,North West,E06000007,Warrington,7.08
+E12000002,North West,E06000008,Blackburn with Darwen,4.85
+E12000002,North West,E06000009,Blackpool,4.34
+E12000002,North West,E06000049,Cheshire East,8.79
+E12000002,North West,E06000050,Cheshire West and Chester,7.18
+E12000002,North West,E07000026,Allerdale,6.6
+E12000002,North West,E07000027,Barrow-in-Furness,3.74
+E12000002,North West,E07000028,Carlisle,5.41
+E12000002,North West,E07000029,Copeland,2.71
+E12000002,North West,E07000030,Eden,8.39
+E12000002,North West,E07000031,South Lakeland,10.12
+E12000002,North West,E07000117,Burnley,4.69
+E12000002,North West,E07000118,Chorley,7.02
+E12000002,North West,E07000119,Fylde,6.75
+E12000002,North West,E07000120,Hyndburn,4.26
+E12000002,North West,E07000121,Lancaster,6.34
+E12000002,North West,E07000122,Pendle,5.34
+E12000002,North West,E07000123,Preston,5.54
+E12000002,North West,E07000124,Ribble Valley,6.43
+E12000002,North West,E07000125,Rossendale,7.12
+E12000002,North West,E07000126,South Ribble,5.98
+E12000002,North West,E07000127,West Lancashire,7.47
+E12000002,North West,E07000128,Wyre,6.81
+E12000002,North West,E08000001,Bolton,6.02
+E12000002,North West,E08000002,Bury,7.5
+E12000002,North West,E08000003,Manchester,6.67
+E12000002,North West,E08000004,Oldham,5.99
+E12000002,North West,E08000005,Rochdale,6.23
+E12000002,North West,E08000006,Salford,6.74
+E12000002,North West,E08000007,Stockport,10.01
+E12000002,North West,E08000008,Tameside,6.61
+E12000002,North West,E08000009,Trafford,10.3
+E12000002,North West,E08000010,Wigan,5.67
+E12000002,North West,E08000011,Knowsley,5.21
+E12000002,North West,E08000012,Liverpool,5.05
+E12000002,North West,E08000013,St. Helens,4.69
+E12000002,North West,E08000014,Sefton,6.78
+E12000002,North West,E08000015,Wirral,7.22
+E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",4.39
+E12000003,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,7.24
+E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire,5.53
+E12000003,Yorkshire and The Humber,E06000013,North Lincolnshire,5.42
+E12000003,Yorkshire and The Humber,E06000014,York,8.41
+E12000003,Yorkshire and The Humber,E07000163,Craven,8.19
+E12000003,Yorkshire and The Humber,E07000164,Hambleton,9.72
+E12000003,Yorkshire and The Humber,E07000165,Harrogate,10.89
+E12000003,Yorkshire and The Humber,E07000166,Richmondshire,8.46
+E12000003,Yorkshire and The Humber,E07000167,Ryedale,9.47
+E12000003,Yorkshire and The Humber,E07000168,Scarborough,6.98
+E12000003,Yorkshire and The Humber,E07000169,Selby,7.07
+E12000003,Yorkshire and The Humber,E08000016,Barnsley,5.02
+E12000003,Yorkshire and The Humber,E08000017,Doncaster,5.56
+E12000003,Yorkshire and The Humber,E08000018,Rotherham,5.71
+E12000003,Yorkshire and The Humber,E08000019,Sheffield,6.14
+E12000003,Yorkshire and The Humber,E08000032,Bradford,5.37
+E12000003,Yorkshire and The Humber,E08000033,Calderdale,5.88
+E12000003,Yorkshire and The Humber,E08000034,Kirklees,6.57
+E12000003,Yorkshire and The Humber,E08000035,Leeds,7.08
+E12000003,Yorkshire and The Humber,E08000036,Wakefield,5.93
+E12000004,East Midlands,E06000015,Derby,5.08
+E12000004,East Midlands,E06000016,Leicester,7.57
+E12000004,East Midlands,E06000017,Rutland,12.12
+E12000004,East Midlands,E06000018,Nottingham,5.81
+E12000004,East Midlands,E07000032,Amber Valley,6.69
+E12000004,East Midlands,E07000033,Bolsover,6.07
+E12000004,East Midlands,E07000034,Chesterfield,6.45
+E12000004,East Midlands,E07000035,Derbyshire Dales,10.21
+E12000004,East Midlands,E07000036,Erewash,6.28
+E12000004,East Midlands,E07000037,High Peak,8.24
+E12000004,East Midlands,E07000038,North East Derbyshire,8.12
+E12000004,East Midlands,E07000039,South Derbyshire,7.35
+E12000004,East Midlands,E07000129,Blaby,8.07
+E12000004,East Midlands,E07000130,Charnwood,8.41
+E12000004,East Midlands,E07000131,Harborough,10.69
+E12000004,East Midlands,E07000132,Hinckley and Bosworth,8.38
+E12000004,East Midlands,E07000133,Melton,12.27
+E12000004,East Midlands,E07000134,North West Leicestershire,7.99
+E12000004,East Midlands,E07000135,Oadby and Wigston,10.14
+E12000004,East Midlands,E07000136,Boston,7.58
+E12000004,East Midlands,E07000137,East Lindsey,7.53
+E12000004,East Midlands,E07000138,Lincoln,5.97
+E12000004,East Midlands,E07000139,North Kesteven,8.16
+E12000004,East Midlands,E07000140,South Holland,8.53
+E12000004,East Midlands,E07000141,South Kesteven,9.01
+E12000004,East Midlands,E07000142,West Lindsey,6.85
+E12000004,East Midlands,E06000061 ,North Northamptonshire,8.2
+E12000004,East Midlands,E06000062 ,West Northamptonshire,9.53
+E12000004,East Midlands,E07000170,Ashfield,6.15
+E12000004,East Midlands,E07000171,Bassetlaw,6.81
+E12000004,East Midlands,E07000172,Broxtowe,7.98
+E12000004,East Midlands,E07000173,Gedling,8.09
+E12000004,East Midlands,E07000174,Mansfield,6.2
+E12000004,East Midlands,E07000175,Newark and Sherwood,7.99
+E12000004,East Midlands,E07000176,Rushcliffe,10.31
+E12000005,West Midlands,E06000019,"Herefordshire, County of",10.27
+E12000005,West Midlands,E06000020,Telford and Wrekin,6.53
+E12000005,West Midlands,E06000021,Stoke-on-Trent,4.58
+E12000005,West Midlands,E06000051,Shropshire,9.05
+E12000005,West Midlands,E07000192,Cannock Chase,6.67
+E12000005,West Midlands,E07000193,East Staffordshire,7.46
+E12000005,West Midlands,E07000194,Lichfield,10.6
+E12000005,West Midlands,E07000195,Newcastle-under-Lyme,6.38
+E12000005,West Midlands,E07000196,South Staffordshire,8.43
+E12000005,West Midlands,E07000197,Stafford,7.71
+E12000005,West Midlands,E07000198,Staffordshire Moorlands,6.57
+E12000005,West Midlands,E07000199,Tamworth,8.59
+E12000005,West Midlands,E07000218,North Warwickshire,8.23
+E12000005,West Midlands,E07000219,Nuneaton and Bedworth,7.73
+E12000005,West Midlands,E07000220,Rugby,7.47
+E12000005,West Midlands,E07000221,Stratford-on-Avon,10.62
+E12000005,West Midlands,E07000222,Warwick,10.73
+E12000005,West Midlands,E07000234,Bromsgrove,11.43
+E12000005,West Midlands,E07000235,Malvern Hills,11.9
+E12000005,West Midlands,E07000236,Redditch,7.57
+E12000005,West Midlands,E07000237,Worcester,8.26
+E12000005,West Midlands,E07000238,Wychavon,10.39
+E12000005,West Midlands,E07000239,Wyre Forest,7.85
+E12000005,West Midlands,E08000025,Birmingham,6.49
+E12000005,West Midlands,E08000026,Coventry,5.96
+E12000005,West Midlands,E08000027,Dudley,6.6
+E12000005,West Midlands,E08000028,Sandwell,6.17
+E12000005,West Midlands,E08000029,Solihull,9.15
+E12000005,West Midlands,E08000030,Walsall,6.35
+E12000005,West Midlands,E08000031,Wolverhampton,6.16
+E12000006,East of England,E06000031,Peterborough,7.34
+E12000006,East of England,E06000032,Luton,8.11
+E12000006,East of England,E06000033,Southend-on-Sea,11.13
+E12000006,East of England,E06000034,Thurrock,10.26
+E12000006,East of England,E06000055,Bedford,10.19
+E12000006,East of England,E06000056,Central Bedfordshire,10.8
+E12000006,East of England,E07000008,Cambridge,12.61
+E12000006,East of England,E07000009,East Cambridgeshire,10.66
+E12000006,East of England,E07000010,Fenland,8.91
+E12000006,East of England,E07000011,Huntingdonshire,9.62
+E12000006,East of England,E07000012,South Cambridgeshire,10.55
+E12000006,East of England,E07000066,Basildon,10.36
+E12000006,East of England,E07000067,Braintree,10.6
+E12000006,East of England,E07000068,Brentwood,16.08
+E12000006,East of England,E07000069,Castle Point,12.37
+E12000006,East of England,E07000070,Chelmsford,11.78
+E12000006,East of England,E07000071,Colchester,10.38
+E12000006,East of England,E07000072,Epping Forest,15.42
+E12000006,East of England,E07000073,Harlow,11.03
+E12000006,East of England,E07000074,Maldon,13.18
+E12000006,East of England,E07000075,Rochford,12.22
+E12000006,East of England,E07000076,Tendring,9.28
+E12000006,East of England,E07000077,Uttlesford,13.4
+E12000006,East of England,E07000095,Broxbourne,11.46
+E12000006,East of England,E07000096,Dacorum,14.04
+E12000006,East of England,E07000098,Hertsmere,15.51
+E12000006,East of England,E07000099,North Hertfordshire,11.22
+E12000006,East of England,E07000102,Three Rivers,14.37
+E12000006,East of England,E07000103,Watford,12.47
+E12000006,East of England,E07000143,Breckland,9.4
+E12000006,East of England,E07000144,Broadland,9.08
+E12000006,East of England,E07000145,Great Yarmouth,6.74
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,8.93
+E12000006,East of England,E07000147,North Norfolk,11.44
+E12000006,East of England,E07000148,Norwich,7.12
+E12000006,East of England,E07000149,South Norfolk,9.05
+E12000006,East of England,E07000200,Babergh,11.84
+E12000006,East of England,E07000202,Ipswich,7.97
+E12000006,East of England,E07000203,Mid Suffolk,9.62
+E12000006,East of England,E07000240,St Albans,17.32
+E12000006,East of England,E07000241,Welwyn Hatfield,12.37
+E12000006,East of England,E07000242,East Hertfordshire,12.62
+E12000006,East of England,E07000243,Stevenage,8.29
+E12000006,East of England,E07000244,East Suffolk,9.74
+E12000006,East of England,E07000245,West Suffolk,9.5
+E12000007,London,E09000001,City of London,11.48
+E12000007,London,E09000002,Barking and Dagenham,10.3
+E12000007,London,E09000003,Barnet,16.55
+E12000007,London,E09000004,Bexley,13.26
+E12000007,London,E09000005,Brent,16.05
+E12000007,London,E09000006,Bromley,14.54
+E12000007,London,E09000007,Camden,18.61
+E12000007,London,E09000008,Croydon,11.88
+E12000007,London,E09000009,Ealing,16.35
+E12000007,London,E09000010,Enfield,14.92
+E12000007,London,E09000011,Greenwich,13.35
+E12000007,London,E09000012,Hackney,14.92
+E12000007,London,E09000013,Hammersmith and Fulham,19.32
+E12000007,London,E09000014,Haringey,17.26
+E12000007,London,E09000015,Harrow,16.15
+E12000007,London,E09000016,Havering,12.52
+E12000007,London,E09000017,Hillingdon,13.56
+E12000007,London,E09000018,Hounslow,12.13
+E12000007,London,E09000019,Islington,14.73
+E12000007,London,E09000020,Kensington and Chelsea,36.52
+E12000007,London,E09000021,Kingston upon Thames,15.22
+E12000007,London,E09000022,Lambeth,15.63
+E12000007,London,E09000023,Lewisham,14.23
+E12000007,London,E09000024,Merton,15.89
+E12000007,London,E09000025,Newham,11.72
+E12000007,London,E09000026,Redbridge,15.84
+E12000007,London,E09000027,Richmond upon Thames,19.62
+E12000007,London,E09000028,Southwark,13.51
+E12000007,London,E09000029,Sutton,14.24
+E12000007,London,E09000030,Tower Hamlets,11
+E12000007,London,E09000031,Waltham Forest,15.57
+E12000007,London,E09000032,Wandsworth,19.1
+E12000007,London,E09000033,Westminster,18.88
+E12000008,South East,E06000035,Medway,8.72
+E12000008,South East,E06000036,Bracknell Forest,9.05
+E12000008,South East,E06000037,West Berkshire,9.73
+E12000008,South East,E06000038,Reading,9.42
+E12000008,South East,E06000039,Slough,8.99
+E12000008,South East,E06000040,Windsor and Maidenhead,15.21
+E12000008,South East,E06000041,Wokingham,11.84
+E12000008,South East,E06000042,Milton Keynes,9.79
+E12000008,South East,E06000043,Brighton and Hove,12.86
+E12000008,South East,E06000044,Portsmouth,7.54
+E12000008,South East,E06000045,Southampton,7.33
+E12000008,South East,E06000046,Isle of Wight,10
+E12000008,South East,E06000060,Buckinghamshire,12.35
+E12000008,South East,E07000061,Eastbourne,9.42
+E12000008,South East,E07000062,Hastings,10.78
+E12000008,South East,E07000063,Lewes,11.64
+E12000008,South East,E07000064,Rother,13.82
+E12000008,South East,E07000065,Wealden,13.76
+E12000008,South East,E07000084,Basingstoke and Deane,9.24
+E12000008,South East,E07000085,East Hampshire,14.51
+E12000008,South East,E07000086,Eastleigh,9.75
+E12000008,South East,E07000087,Fareham,10.74
+E12000008,South East,E07000088,Gosport,6.68
+E12000008,South East,E07000089,Hart,11.45
+E12000008,South East,E07000090,Havant,10.17
+E12000008,South East,E07000091,New Forest,12.52
+E12000008,South East,E07000092,Rushmoor,9.74
+E12000008,South East,E07000093,Test Valley,10.6
+E12000008,South East,E07000094,Winchester,14.14
+E12000008,South East,E07000105,Ashford,10.45
+E12000008,South East,E07000106,Canterbury,12.86
+E12000008,South East,E07000107,Dartford,8.86
+E12000008,South East,E07000108,Dover,9.25
+E12000008,South East,E07000109,Gravesham,10.9
+E12000008,South East,E07000110,Maidstone,10.85
+E12000008,South East,E07000111,Sevenoaks,14.47
+E12000008,South East,E07000112,Folkestone and Hythe,11.2
+E12000008,South East,E07000113,Swale,10.1
+E12000008,South East,E07000114,Thanet,10.74
+E12000008,South East,E07000115,Tonbridge and Malling,13.39
+E12000008,South East,E07000116,Tunbridge Wells,15.42
+E12000008,South East,E07000177,Cherwell,10.28
+E12000008,South East,E07000178,Oxford,12.05
+E12000008,South East,E07000179,South Oxfordshire,13.07
+E12000008,South East,E07000180,Vale of White Horse,9.96
+E12000008,South East,E07000181,West Oxfordshire,11.4
+E12000008,South East,E07000207,Elmbridge,17.78
+E12000008,South East,E07000208,Epsom and Ewell,17.98
+E12000008,South East,E07000209,Guildford,13.2
+E12000008,South East,E07000210,Mole Valley,13.84
+E12000008,South East,E07000211,Reigate and Banstead,13.58
+E12000008,South East,E07000212,Runnymede,10.39
+E12000008,South East,E07000213,Spelthorne,12.66
+E12000008,South East,E07000214,Surrey Heath,11.84
+E12000008,South East,E07000215,Tandridge,16.12
+E12000008,South East,E07000216,Waverley,18.32
+E12000008,South East,E07000217,Woking,13.12
+E12000008,South East,E07000223,Adur,13.41
+E12000008,South East,E07000224,Arun,12.16
+E12000008,South East,E07000225,Chichester,14.61
+E12000008,South East,E07000226,Crawley,8.99
+E12000008,South East,E07000227,Horsham,13.93
+E12000008,South East,E07000228,Mid Sussex,13.39
+E12000008,South East,E07000229,Worthing,11.32
+E12000009,South West,E06000022,Bath and North East Somerset,12.15
+E12000009,South West,E06000023,"Bristol, City of",9.7
+E12000009,South West,E06000024,North Somerset,10.58
+E12000009,South West,E06000025,South Gloucestershire,8.82
+E12000009,South West,E06000026,Plymouth,7.27
+E12000009,South West,E06000027,Torbay,8.9
+E12000009,South West,E06000030,Swindon,7.69
+E12000009,South West,E06000052,Cornwall,10.99
+E12000009,South West,E06000053,Isles of Scilly,:
+E12000009,South West,E06000054,Wiltshire,10.32
+E12000009,South West,E06000058,"Bournemouth, Christchurch and Poole",11.17
+E12000009,South West,E06000059,Dorset,12.22
+E12000009,South West,E07000040,East Devon,10.88
+E12000009,South West,E07000041,Exeter,9.22
+E12000009,South West,E07000042,Mid Devon,9.29
+E12000009,South West,E07000043,North Devon,10.46
+E12000009,South West,E07000044,South Hams,12.56
+E12000009,South West,E07000045,Teignbridge,11.4
+E12000009,South West,E07000046,Torridge,10.34
+E12000009,South West,E07000047,West Devon,11.96
+E12000009,South West,E07000078,Cheltenham,10.55
+E12000009,South West,E07000079,Cotswold,15.75
+E12000009,South West,E07000080,Forest of Dean,10.62
+E12000009,South West,E07000081,Gloucester,7.34
+E12000009,South West,E07000082,Stroud,10.27
+E12000009,South West,E07000083,Tewkesbury,9.15
+E12000009,South West,E07000187,Mendip,11.22
+E12000009,South West,E07000188,Sedgemoor,9
+E12000009,South West,E07000189,South Somerset,8.8
+E12000009,South West,E07000246,Somerset West and Taunton,9.16
+W92000004,Wales,W06000001,Isle of Anglesey,6.8
+W92000004,Wales,W06000002,Gwynedd,6.81
+W92000004,Wales,W06000003,Conwy,7.37
+W92000004,Wales,W06000004,Denbighshire,6.29
+W92000004,Wales,W06000005,Flintshire,6.19
+W92000004,Wales,W06000006,Wrexham,5.92
+W92000004,Wales,W06000008,Ceredigion,7.82
+W92000004,Wales,W06000009,Pembrokeshire,7.21
+W92000004,Wales,W06000010,Carmarthenshire,5.72
+W92000004,Wales,W06000011,Swansea,6.1
+W92000004,Wales,W06000012,Neath Port Talbot,4.42
+W92000004,Wales,W06000013,Bridgend,5.75
+W92000004,Wales,W06000014,Vale of Glamorgan,9.66
+W92000004,Wales,W06000015,Cardiff,8.14
+W92000004,Wales,W06000016,Rhondda Cynon Taf,4.88
+W92000004,Wales,W06000018,Caerphilly,5.24
+W92000004,Wales,W06000019,Blaenau Gwent,3.63
+W92000004,Wales,W06000020,Torfaen,5.63
+W92000004,Wales,W06000021,Monmouthshire,10.38
+W92000004,Wales,W06000022,Newport,7.08
+W92000004,Wales,W06000023,Powys,7.74
+W92000004,Wales,W06000024,Merthyr Tydfil,4.87
+"Source: Office for National Statistics - House Price Statistics for Small Areas, Annual Survey of Hours and Earnings ",,,,
+Notes:,,,,
+1. Housing affordability ratio refers to the ratio of median price paid for residential property to the median workplace-based gross annual earnings for full-time workers. ,,,,
